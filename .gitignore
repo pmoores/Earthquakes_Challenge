@@ -9,6 +9,9 @@ __pycache__/
 # Adding DS_Store
 .DS_Store
 
+# Adding config.js
+config.js
+
 # Distribution / packaging
 .Python
 build/
